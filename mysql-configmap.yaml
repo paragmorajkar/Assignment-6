@@ -6,7 +6,7 @@ kind: ConfigMap
 metadata:
   creationTimestamp: "2020-03-21T08:49:30Z"
   name: db-config
-  namespace: mera-page
+  namespace: test
   resourceVersion: "1473"
   selfLink: 
   uid: 64e740ac-abb3-42e6-a98e-9e1585f3b57f
