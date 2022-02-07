@@ -12,6 +12,7 @@ mysql-secret.yaml
 
 
 Steps Followed:
+Step 1: Created a mysql Config Map using .yaml file
 
 Step 2: Created a mysql Service using .yaml file
 
